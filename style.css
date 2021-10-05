@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+
+
+body {
+  color: skyblue;
+}
+
+.outer-outer {
+width: 510px;
+height: 363px;
+background-color: gray;
+text-align: center;
+margin: 1.5rem;
+padding: 10px;
+}
+
+.outer {
+  margin-top: 0.3rem;
+  margin-left: 0.3rem;
+  background-color: red;
+  color: white;
+  text-align: center;
+  width: 500px;
+  height:350px;
+  border-radius: 20px;
+
+}
+
+.case1 {
+  margin: 0;
+  width: 100%;
+  height: 150px;
+  font-size: 7rem;
+  letter-spacing: 0.2rem;
+  font-family: 'Big Shoulders Display', cursive;
+}
+
+.name-is{
+  margin-top: -1em;
+  font-size: 2rem;
+}
+
+
+.inner {
+  margin-top: 2.5rem;
+  width: 100%;
+  height: 10%;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-family: 'Birthstone', cursive;
+  font-size: 4rem;
+  padding: 2rem 0;
+}
+
+.case3 {
+  margin-top: -1rem;
+}
+
